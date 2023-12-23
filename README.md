@@ -37,6 +37,40 @@ The course "NoSQL - MongoDB Database" covers topics suitable for both beginners 
     13- Deploying MongoDB with docker
         - Using Docker Compose
         - Mongo-express
+        # Table of Contents
+
+1. [Definition](#definition)
+2. [Key Features of MongoDB](#key-features-of-mongodb)
+3. [Binary JSON (BSON)](#binary-json-bson)
+4. [MongoDB Data Types](#mongodb-data-types)
+5. [MongoDB Query Language (MQL)](#mongodb-query-language-mql)
+   - [MongoDB Query Operators](#mongodb-query-operators)
+6. [Roles and Privileges](#roles-and-privileges)
+   - [Grant and Revoke Roles and Privileges](#grant-and-revoke-roles-and-privileges)
+   - [Example Scenario](#example-scenario)
+7. [Indexes in MongoDB and Its Job](#indexes-in-mongodb-and-its-job)
+   - [Create an Index](#create-an-index)
+8. [MongoDB Schema and Relations](#mongodb-schema-and-relations)
+   - [Data Modeling Concepts](#data-modeling-concepts)
+   - [Relationships](#relationships)
+   - [Considerations](#considerations)
+9. [Aggregations and How to Create a Pipeline](#aggregations-and-how-to-create-a-pipeline)
+10. [Connect MongoDB with Some Programming Languages](#connect-mongodb-with-some-programming-languages)
+    - [JavaScript](#javascript)
+    - [Java](#java)
+        - [Spring Boot](#spring-boot)
+    - [PHP](#php)
+11. [MongoDB Atlas](#mongodb-atlas)
+    - [How Can I Use It](#how-can-i-use-it)
+        1. [Command-Line Interface (CLI)](#command-line-interface-cli)
+        2. [MongoDB Compass](#mongodb-compass)
+        3. [Visual Studio Code (VSCode)](#visual-studio-code-vscode)
+12. [MongoDB Express (GUI)](#mongodb-express-gui)
+    - [Mongo-Express NodeJs Installation](#mongo-express-nodejs-installation)
+13. [Deploying MongoDB with Docker](#deploying-mongodb-with-docker)
+    - [Using Docker Compose](#using-docker-compose)
+    - [Mongo-Express](#mongo-express)
+
 
 ### Prerequisites
 
