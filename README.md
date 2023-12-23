@@ -52,7 +52,7 @@ This course is provided under the MIT License. Feel free to use it for personal 
 
 ### Acknowledgments
 
-This course is based on the "NoSQL - MongoDB Database" PDF provided by[1]. The content has been adapted and expanded to create a comprehensive learning experience.
+This course is based on the "NoSQL - MongoDB Database" PDF and the content has been adapted and expanded to create a comprehensive learning experience.
 
 Citations:
 
