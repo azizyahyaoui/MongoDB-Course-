@@ -6,31 +6,38 @@ The course "NoSQL - MongoDB Database" covers topics suitable for both beginners 
 
 ### Course Outline
 
-1. **Introduction to NoSQL Databases**
-   - Definition and benefits of NoSQL databases
-   - Types of NoSQL databases
-   - Comparison with traditional relational databases
-
-2. **MongoDB Introduction**
-   - Introduction to the MongoDB ecosystem
-   - MongoDB document model
-   - Basic CRUD operations
-
-3. **Data Modeling in MongoDB**
-   - Choosing between embedding and referencing
-   - Data access patterns and atomicity
-   - Query performance and indexing
-   - Denormalization and trade-offs
-
-4. **Many-to-Many Relationships**
-   - Understanding many-to-many relationships
-   - Embedding arrays or references
-   - Examples and use cases
-
-5. **Course Project**
-   - Setting up the development environment
-   - Cloning the MongoDB repository
-   - Running the application
+NoSQL - MongoDB database
+1- Definition
+2- Key features of MongoDB
+3- Binary JSON (BSON)
+4- MongoDB data types
+5- MongoDB Query Language (MQL)
+MongoDB query operators
+6- Roles and Privileges
+Grant and Revoke roles and privileges
+Example scenario:
+7- What are indexes in MongoDB and its job?
+Create an index:
+8- MongoDB schema and relations
+Data Modeling Concepts:
+Relationships:
+Considerations:
+9- Aggregations and how to create a pipeline
+10- Connect MongoDB with some programming languages
+JavaScript
+Java
+Spring Boot
+PHP
+11- MongoDB Atlas
+How can I use it
+1. Command-Line Interface (CLI):
+2. MongoDB Compass:
+3. Visual Studio Code (VSCode):
+12- MongoDB Express (GUI)
+Mongo-Express NodeJs installation
+13- Deploying MongoDB with docker
+Using Docker Compose
+Mongo-express
 
 ### Prerequisites
 
