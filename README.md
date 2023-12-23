@@ -4,9 +4,6 @@ This course covers the basics of NoSQL databases with a focus on MongoDB, one of
 
 The course "NoSQL - MongoDB Database" covers topics suitable for both beginners and those with some prior knowledge. It includes introductory sections on NoSQL databases and MongoDB, making it accessible to beginners. Additionally, it delves into advanced topics such as data modeling, many-to-many relationships, and considerations like embedding vs. referencing, data access patterns, atomicity, query performance, and denormalization, making it valuable for learners with some existing familiarity with the subject matter. Therefore, the course caters to both beginner and advanced learners.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/7094808/07e5512c-b4fd-4179-b06a-6b91597fa89e/NoSQL - MongoDB database.pdf
-
 ### Course Outline
 
 1. **Introduction to NoSQL Databases**
