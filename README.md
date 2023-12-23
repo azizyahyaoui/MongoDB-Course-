@@ -36,16 +36,16 @@ The course "NoSQL - MongoDB Database" covers topics suitable for both beginners 
 
 - Basic understanding of programming and data structures
 - Familiarity with JavaScript or another programming language
-- Access to a MongoDB instance or local installation
+- Access to a MongoDB instance or local installation or usage Cloud 'ATLAS'
 
 
 ### License
 
-This course is provided under the MIT License. Feel free to use it for personal or educational purposes, but please provide a link to the original source when sharing or modifying the content.
+This course is provided under the MIT License. Feel free to use it for personal or educational purposes, but please provide a link to the source when sharing or modifying the content.
 
 ### Acknowledgments
 
-This course is based on the "NoSQL - MongoDB Database" PDF provided by[1]. The content has been adapted and expanded upon to create a comprehensive learning experience.
+This course is based on the "NoSQL - MongoDB Database" PDF provided by[1]. The content has been adapted and expanded to create a comprehensive learning experience.
 
 Citations:
 
