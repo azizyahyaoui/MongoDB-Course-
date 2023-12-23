@@ -38,11 +38,6 @@ The course "NoSQL - MongoDB Database" covers topics suitable for both beginners 
 - Familiarity with JavaScript or another programming language
 - Access to a MongoDB instance or local installation
 
-### Course Components
-
-- PDF lecture slides
-- Video recordings
-- Sample code and exercises
 
 ### License
 
